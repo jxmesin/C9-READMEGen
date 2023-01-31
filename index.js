@@ -40,6 +40,12 @@ const questions = [
         default: "npm i"
     },
     {
+        type: "input",
+        name: "test",
+        message: "What command should be run to run tests?",
+        default: "npm test"
+    },
+    {
        type: "input",
        name: "usage",
        message: "What's the usage of this repo?"
