@@ -25,4 +25,5 @@ THEN I am taken to the corresponding section of the README
 ## Preview
 <img width="1512" alt="Screenshot 2023-01-30 at 9 05 33 PM" src="https://user-images.githubusercontent.com/112153725/215672152-8849e30c-4665-4555-90b0-342e8649386c.png">
 ## Application Walkthrough
+
 https://drive.google.com/file/d/18cIzGfVYjyelYpUSCphsS1sqU9SM6g5W/view
